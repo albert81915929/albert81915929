@@ -3,13 +3,13 @@
 ![](https://img.shields.io/badge/CODE-PYTHON-green)
 ![](https://img.shields.io/badge/CODE-C-green)
 ![](https://img.shields.io/badge/WEB-REACT-green)
-![](https://img.shields.io/badge/WEB-NODE.JS-green)
-![](https://img.shields.io/badge/WEB-HTML-green)
-![](https://img.shields.io/badge/WEB-CSS-green)
-![](https://img.shields.io/badge/CLOUD-AWS-YELLOW)
-![](https://img.shields.io/badge/TOOL-VIM-RED)
-![](https://img.shields.io/badge/TOOL-GIT-READ)
-![](https://img.shields.io/badge/TOOL-GIT-DOCKER)
+![](https://img.shields.io/badge/WEB-NODE.JS-yellowgreen)
+![](https://img.shields.io/badge/WEB-HTML-yellowgreen)
+![](https://img.shields.io/badge/WEB-CSS-yellowgreen)
+![](https://img.shields.io/badge/CLOUD-AWS-yellow)
+![](https://img.shields.io/badge/TOOL-VIM-red)
+![](https://img.shields.io/badge/TOOL-GIT-red)
+![](https://img.shields.io/badge/TOOL-DOCKER-red)
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning **REACT.js, Node.js**
 - 🔭 I’m currently working on AWS Summer Competition
