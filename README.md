@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![](https://img.shields.io/badge/CODE-JAVA-green)
+![](https://img.shields.io/badge/CODE-PYTHON-green)
+![](https://img.shields.io/badge/CODE-REACT-green)
+![](https://img.shields.io/badge/CODE-NODE.JS-green)
+![](https://img.shields.io/badge/CODE-C-green)
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning **REACT.js, Node.js**
 - 🔭 I’m currently working on AWS Summer Competition
